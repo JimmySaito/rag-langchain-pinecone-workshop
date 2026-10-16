@@ -4,7 +4,9 @@ Workshop: Building a Retrieval-Augmented Generator (RAG) with LangChain, OpenAI,
 
 Este repositorio contiene la implementación práctica de un taller diseñado para construir y desplegar un sistema de Generación Aumentada por Recuperación (RAG), utilizando modelos de lenguaje avanzados, embeddings y bases de datos vectoriales tanto locales como en la nube.
 
-🛠️ Tecnologías y Librerías Utilizadas
+----------------------------------------------------------------------------
+
+Tecnologías y Librerías Utilizadas
 
 Python 3.10+
 LangChain (Orquestador de flujos y cadenas RAG mediante LCEL)
@@ -12,7 +14,10 @@ OpenAI API (gpt-4o-mini para generación y text-embedding-3-small para vectoriza
 FAISS (Almacenamiento y búsqueda vectorial local en memoria)
 Pinecone (Base de datos vectorial gestionada en la nube para alta escalabilidad)
 Jupyter Notebook (Entorno de desarrollo interactivo)
-📂 Estructura del Proyecto
+
+--------------------------------------------------------------
+
+Estructura del Proyecto
 
 rag-workshop/
 
